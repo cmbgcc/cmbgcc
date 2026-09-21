@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">A passionate interaction designer and 3D animator</h3>
+<h3 align="center">UX-UI Desgüigner / Product Designer</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
